@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 88" role="img" aria-labelledby="title">
+  <title id="title">Helix Harness</title>
+  <g fill="none" stroke="#182126" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 12c24 11.2 24 41.6 0 53"/>
+    <path d="M53 12C29 23.2 29 53.6 53 65"/>
+    <path d="M22 24h26" opacity=".72"/>
+    <path d="M19 38.5h32"/>
+    <path d="M22 53h26" opacity=".72"/>
+  </g>
+  <text x="72" y="51" fill="#182126" font-family="Hellix, Avenir Next, system-ui, sans-serif" font-size="38" font-weight="700" letter-spacing="4">HELIX</text>
+  <text x="230" y="50" fill="#5f6d74" font-family="Hellix, Avenir Next, system-ui, sans-serif" font-size="12" font-weight="600" letter-spacing="3">HARNESS</text>
+</svg>

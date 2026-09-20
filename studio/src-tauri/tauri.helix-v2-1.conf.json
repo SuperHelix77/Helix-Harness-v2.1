@@ -1,0 +1,35 @@
+{
+  "productName": "Helix Harness v2.1",
+  "identifier": "ai.helix.harness.v21",
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "Helix Harness v2.1",
+        "width": 1180,
+        "height": 760,
+        "minWidth": 820,
+        "minHeight": 560,
+        "center": true,
+        "visible": false,
+        "resizable": true,
+        "decorations": true,
+        "titleBarStyle": "Overlay",
+        "trafficLightPosition": { "x": 14, "y": 26 },
+        "hiddenTitle": true,
+        "transparent": true
+      }
+    ]
+  },
+  "plugins": {
+    "deep-link": {
+      "desktop": {
+        "schemes": ["helixharness-v21"]
+      }
+    }
+  },
+  "bundle": {
+    "homepage": "https://github.com/SuperHelix77/Helix-Harness-v2.1",
+    "copyright": "© 2026 Helix Harness. Built on Unsloth Studio (AGPL-3.0)."
+  }
+}

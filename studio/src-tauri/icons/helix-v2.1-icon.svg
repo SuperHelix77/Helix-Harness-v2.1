@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Helix Harness</title>
+  <rect x="32" y="32" width="448" height="448" rx="108" fill="#182126"/>
+  <rect x="33" y="33" width="446" height="446" rx="107" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+  <g fill="none" stroke="#f3f7f8" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 118c144 68 144 208 0 276"/>
+    <path d="M362 118c-144 68-144 208 0 276"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="24">
+    <path d="M183 177h146" stroke="#a8c9d5" stroke-opacity=".78"/>
+    <path d="M165 256h182" stroke="#f3f7f8"/>
+    <path d="M183 335h146" stroke="#a8c9d5" stroke-opacity=".78"/>
+  </g>
+</svg>

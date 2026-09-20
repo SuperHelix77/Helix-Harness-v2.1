@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Helix Harness</title>
+  <g fill="none" stroke="#182126" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 4c10.8 5.1 10.8 18.9 0 24"/>
+    <path d="M24 4C13.2 9.1 13.2 22.9 24 28"/>
+    <path d="M10.5 9.2h11" opacity=".72"/>
+    <path d="M9.4 16h13.2"/>
+    <path d="M10.5 22.8h11" opacity=".72"/>
+  </g>
+</svg>
